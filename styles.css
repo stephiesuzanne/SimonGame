@@ -23,7 +23,7 @@ body {
   height: 200px;
   width: 200px;
   border: 10px solid #ff2e63;
-  border-radius: 20%;
+  border-radius: 50%;
 }
 
 .game-over {
@@ -32,19 +32,19 @@ body {
 }
 
 .red {
-  background-color: #84142d;
+  background-color: #c02739;
 }
 
 .green {
-  background-color: #29c7ac;
+  background-color: #baf1a1;
 }
 
 .blue {
-  background-color: #142850;
+  background-color: #8ac6d1;
 }
 
 .yellow {
-  background-color: #ffa41b;
+  background-color: #ffe75e;
 }
 
 .pressed {
